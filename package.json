@@ -1,0 +1,14 @@
+{
+  "name": "elevators",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./client/run.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "python ./server/world/run.py 195658442818",
+    "start": "node ./client/run.js",
+    "start-base": "node ./base-client/run.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
