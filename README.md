@@ -12,4 +12,5 @@ This script works in simulation with another one and try to move more passengers
 ## Links
 
 [Habr article](https://habr.com/company/mailru/blog/337942/)
+
 [AI Cup website](http://aicups.ru/)
